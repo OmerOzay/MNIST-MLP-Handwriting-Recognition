@@ -1,0 +1,8 @@
+{
+  "experiment": 1,
+  "total_images": 10000,
+  "correct_predictions": 9792,
+  "wrong_predictions": 208,
+  "test_loss": 0.06603909475244582,
+  "test_accuracy": 97.92
+}

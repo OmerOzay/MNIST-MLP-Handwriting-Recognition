@@ -1,0 +1,18 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# MNIST dataset (downloaded automatically)
+data/
+
+# Duplicate outputs from the latest experiment
+models/best_mlp.pth
+results/history.csv
+results/loss.png
+results/accuracy.png
+
+# Editor and system files
+.vscode/
+.DS_Store
